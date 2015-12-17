@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E485D1290D9E160569CB83BA387134E9CEEFC5B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d3b33442-203a-4b98-a023-85834f8d8bd5++4837" : {
+
+    },
+    "ed1acf24-8c03-fb43-b7c9-dbd786c82735++7254" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d3b33442-203a-4b98-a023-85834f8d8bd5++4837" : 0,
+    "E485D1290D9E160569CB83BA387134E9CEEFC5B8" : 0,
+    "ed1acf24-8c03-fb43-b7c9-dbd786c82735++7254" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69A35906-93B2-490D-AEAC-0127C6EA0221",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d3b33442-203a-4b98-a023-85834f8d8bd5++4837" : "Forward2.0project\/fd_app_ios\/ForwardOne\/ForwardOne\/3rd\/MD5",
+    "E485D1290D9E160569CB83BA387134E9CEEFC5B8" : "Forward2.0",
+    "ed1acf24-8c03-fb43-b7c9-dbd786c82735++7254" : "Forward2.0\/project\/fd_app_ios\/ForwardOne\/ForwardOne\/3rd\/ASIHTTPRequst\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ForwardOne",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "project\/fd_app_ios\/ForwardOne\/ForwardOne.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "masterGit:Forward2.0",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E485D1290D9E160569CB83BA387134E9CEEFC5B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.88.8\/qfproj",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d3b33442-203a-4b98-a023-85834f8d8bd5++4837"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.102",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ed1acf24-8c03-fb43-b7c9-dbd786c82735++7254"
+    }
+  ]
+}

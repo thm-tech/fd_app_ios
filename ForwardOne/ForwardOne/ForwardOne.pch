@@ -1,0 +1,99 @@
+//
+//  ForwardOne.pch
+//  ForwardOne
+//
+//  Created by 杨波 on 15/4/7.
+//  Copyright (c) 2015年 杨波. All rights reserved.
+//
+
+//#ifndef ForwardOne_ForwardOne_pch
+//#define ForwardOne_ForwardOne_pch
+//
+//// Include any system framework and library headers here that should be included in all compilation units.
+//// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//
+//#endif
+
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "ZCControl.h"
+#import "YBHttpRequest.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+
+#import "AFNetworking.h"
+#import "UIKit+AFNetworking.h"
+
+#import "YBWebSocketManager.h"
+#import "JSONKit.h"
+#import "UIColor+Category.h"
+
+#define SCREENWIDTH [UIApplication sharedApplication].delegate.window.bounds.size.width
+#define SCREENHEIGHT [UIApplication sharedApplication].delegate.window.bounds.size.height
+#define WIDTH self.view.frame.size.width
+#define HEIGHT self.view.frame.size.height
+
+//定义网络请求的域名（http）
+#define DomainName @"api.immbear.com"
+
+//关于聊天模块的http请求（修改群组名字 群组图片 上传图片语音）
+#define DomainName2 @"chat.immbear.com"
+
+#define UserAccount @"userAccount"
+#define UserPhone @"userPhone"
+#define UserPassword @"userPassword"
+
+//上次登录的设备
+#define UserDevice @"userDevice"
+
+//我的昵称
+#define MyNickName @"myNickName"
+#define MyLocationAddress @"myLocationAddress"
+#define MyPhotoImageURL @"myPhotoImageURL"
+#define MyCityPickerName @"myCityPickerName"
+#define MyChooseCity @"myChooseCity"
+
+#define MyCollectionSetting @"myCollectionSetting"
+#define MyFansShopSetting @"myFansShopSetting"
+#define MyLookedShopSetting @"myLookedShopSetting"
+
+#define AllMessageSetting @"allMessageSetting"
+#define DataSetting @"dataSetting"
+#define DataSetting2 @"dataSetting2"
+#define Voicetime @"voiceTime"
+
+#define ShakeUserID @"shakeUserID"
+#define CreateGroupName @"creategroupName"
+#define UserInGroups @"userInGroups"
+#define MyLastGname @"myLastGname"
+#define SideBarHidden @"sideBarHidden"
+
+
+//webSocket相关
+//我选择的gname
+#define MyGname @"MyGname"
+
+
+//是否已经登录
+#define IsLogin @"isLogin"
+
+
+//是否同步好友信息数据
+#define IsTogetherFriend @"isTogetherFriend"
+
+//是否同步粉丝店信息数据
+#define IsTogetherFansShop @"isTogetherFansShop"
+
+//是否同步收藏信息数据
+#define IsTogetherCollection @"isTogetherCollection"
+
+#endif

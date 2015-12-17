@@ -1,0 +1,9 @@
+aa #EED9C4
+bb #C88A65
+ba
+cc
+dd
+ee
+ff
+gg
+fg

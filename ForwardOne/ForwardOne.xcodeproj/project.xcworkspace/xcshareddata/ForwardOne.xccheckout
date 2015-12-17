@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69A35906-93B2-490D-AEAC-0127C6EA0221</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ForwardOne</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E485D1290D9E160569CB83BA387134E9CEEFC5B8</key>
+		<string>masterGit:Forward2.0</string>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5++4837</key>
+		<string>http://192.168.88.8/qfproj/teachers/oyangjian/%2525252525252525252525E7%252525252525252525252588%2525252525252525252525B1%2525252525252525252525E9%252525252525252525252599%252525252525252525252590%2525252525252525252525E5%252525252525252525252585%25252525252525252525258D/trunk/MD5</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>project/fd_app_ios/ForwardOne/ForwardOne.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E485D1290D9E160569CB83BA387134E9CEEFC5B8</key>
+		<string>../../../../..</string>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5++4837</key>
+		<string>../../../../..project/fd_app_ios/ForwardOne/ForwardOne/3rd/MD5</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d3b33442-203a-4b98-a023-85834f8d8bd5++4837</key>
+		<string>http://192.168.88.8/qfproj</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>masterGit:Forward2.0</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E485D1290D9E160569CB83BA387134E9CEEFC5B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E485D1290D9E160569CB83BA387134E9CEEFC5B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Forward2.0</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d3b33442-203a-4b98-a023-85834f8d8bd5++4837</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MD5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
